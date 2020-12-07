@@ -76,7 +76,7 @@ a, table.table a {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $light-carrot-color;
   opacity: 0.95;
   background-color: var(--global-bg-color);
 }
@@ -91,6 +91,7 @@ a, table.table a {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
+    color: var(--global-text-color);
     &:hover {
       color: var(--global-hover-color);
     }
