@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Solving sudoku using AI
-description: AI-powered sudoku solver using CNN.
+title: Solving sudoku using Artificial Intelligence
+description: AI-powered sudoku solver using a simple Convolutional Neural Network.
 img: /assets/img/p5.jpg
 redirect: https://www.kaggle.com/sarthakvajpayee/simple-ai-sudoku-solver
 importance: 5

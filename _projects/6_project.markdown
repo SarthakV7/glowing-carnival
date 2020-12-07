@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI-powered Indian license plate detector
-description: Detecting Indian license plates using a simple CNN.
+description: Detecting Indian license plates using a simple Convolutional Neural Network.
 img: /assets/img/p6.jpg
 redirect: https://www.kaggle.com/sarthakvajpayee/license-plate-recognition-using-cnn
 importance: 6
