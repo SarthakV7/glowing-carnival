@@ -61,7 +61,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 blog_name: Blogs  # your blog must have a name for it to show up in the nav bar
 blog_description: some of my work...
-permalink: /blog/:year/:title/
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
