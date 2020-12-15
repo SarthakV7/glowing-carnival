@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Transformers (State-of-the-art Natural Language Processing).
-date:   2020-08-01 16:40:16
+date:   2020-08-01 16:40:16 +05:30
 description: Part 1/3 of Transformers vs Google QUEST Q&A Labeling (Kaggle top 5%).
 published: True
 ---
