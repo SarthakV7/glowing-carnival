@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: AI-powered Indian license plate detector.
-date:   2019-09-07 16:40:16 +05:30
+date:   2019-09-07 16:40:16+0530
 description: The guy who hit my car and got away with it!
 published: True
 ---

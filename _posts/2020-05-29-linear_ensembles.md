@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title:  How powerful can an ensemble of linear models be?
-date:   2020-05-29 16:40:16 +05:30
+date:   2020-05-29 16:40:16+0530
 description: How an ensemble of linear models got in the top 6% of Mercari price prediction challenge leaderboard on Kaggle.
 published: True
 ---
