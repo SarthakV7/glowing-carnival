@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  Hands-on Transformers (Kaggle Google QUEST Q&A Labeling).
 date:   2020-08-01 16:40:16 +05:30
 description: Part 3/3 of Transformers vs Google QUEST Q&A Labeling (Kaggle top 5%).
